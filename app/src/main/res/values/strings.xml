@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Sunsetter</string>
+    <string name="widget_name">Lamp</string>
+    <string name="widget_description">Shows whether the lamp is on. Tap to toggle it.</string>
+</resources>

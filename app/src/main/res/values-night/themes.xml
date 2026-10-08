@@ -1,0 +1,5 @@
+<resources>
+    <style name="Theme.Sunsetter" parent="android:Theme.Material.NoActionBar">
+        <item name="android:windowBackground">#FF0F1511</item>
+    </style>
+</resources>
